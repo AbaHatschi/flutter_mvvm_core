@@ -1,0 +1,23 @@
+name: flutter_mvvm_core
+description: "A powerful Flutter MVVM core package with AsyncValue, event system, logging and validation."
+version: 1.0.0
+homepage: https://github.com/AbaHatschi/flutter_mvvm_core
+repository: https://github.com/AbaHatschi/flutter_mvvm_core
+issue_tracker: https://github.com/AbaHatschi/flutter_mvvm_core/issues
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.16.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  
+flutter:
+  uses-material-design: true
